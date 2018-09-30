@@ -8,25 +8,25 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Using Google sheets to encipher. </td>
-    <td>Date</td>
-    <td>30/09/18</td>
+    <th>Title</th>
+    <th>Using Google sheets to encipher. </th>
+    <th>Date</th>
+    <th>30/09/18</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Learning about what Google sheets is used for and what it does.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Using sheets to encipher and decipher code.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>I had to decipher the code at home.</td>
   </tr>
 </table>
@@ -34,31 +34,31 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
     <td></td>
   </tr>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td>I had to try different things when enciphering shift 2 and 3.</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <th>Questioning?</th>
     <td>We had to test the limits of sheets by learning valuable short cuts.</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>Finding out how to color in the cells on our own.</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>Looking back on what we could have done better.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td>Not giving up to find the answer.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
     <td></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
     <td></td>
   </tr>
   <tr>
