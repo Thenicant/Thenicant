@@ -8,25 +8,25 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Using Mozilla Thimble </td>
-    <td>Date</td>
-    <td>07/10/18</td>
+    <th>Title</tdh>
+    <th>Using Mozilla Thimble </th>
+    <th>Date</th>
+    <th>07/10/18</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>Learning why we use Thimble.</td>
+    <th>Starting point:</th>
+    <th>Learning why we use Thimble.</th>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To use Mozilla Thimble and apply it to Github.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>I was not sure where to start initially but when I got the hang of it, it was better.</td>
   </tr>
 </table>
@@ -34,31 +34,31 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
     <td></td>
   </tr>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td>Trying to reach a starting point.</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
-    <td>Questioning what certain punctuation are used for in python.</td>
+    <th>Questioning?</th>
+    <td>Questioning what certain punctuation are used for in python.</th>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>Finding a starting point.</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>Looking back on what how did and how I did it.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td>Focusing on certain aspects.</td>
   </tr>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
     <td></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
     <td></td>
   </tr>
   <tr>
